@@ -43,6 +43,7 @@ const nonBubblingEventsMap = {
     'emptied': 1,
     'ended': 1,
     'error': 1,
+    'load': 1,
     'loadeddata': 1,
     'loadedmetadata': 1,
     'loadstart': 1,
